@@ -1,0 +1,2 @@
+Exclude after: 5700s
+Headstage went flat
